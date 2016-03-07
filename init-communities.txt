@@ -1,0 +1,1003 @@
+LandisData  "Initial Communities"
+
+
+MapCode 0
+
+MapCode 1
+
+MapCode 2
+
+MapCode 3
+  pinubank 10
+
+MapCode 4
+  pinubank 30
+
+MapCode 5
+  pinubank 40
+
+MapCode 6
+  abiebals 10
+  pinubank 50
+  poputrem 10
+
+MapCode 7
+  abiebals 10
+  picemari 10
+  pinubank 60
+  poputrem 10
+
+MapCode 8
+  abiebals 10
+  betupapy 10
+  picemari 10
+  pinubank 70
+  poputrem 10
+
+MapCode 9
+  abiebals 10
+  betupapy 10
+  picemari 10
+  pinubank 80
+  poputrem 10
+
+MapCode 10
+  abiebals 20
+  betupapy 10
+  picemari 10
+  pinubank 90
+  poputrem 20
+
+MapCode 11
+  abiebals 20
+  betupapy 10
+  picemari 10
+  pinubank 100
+  poputrem 20
+
+MapCode 12
+  abiebals 20
+  betupapy 10
+  picemari 20
+  pinubank 120
+  poputrem 20
+
+MapCode 13
+  abiebals 30
+  betupapy 10
+  picemari 20
+  pinubank 130
+  poputrem 30
+
+MapCode 14
+  abiebals 30
+  betupapy 20
+  picemari 20
+  pinubank 140
+  poputrem 30
+
+MapCode 15
+  abiebals 30
+  betupapy 20
+  picemari 20
+  pinubank 150
+  poputrem 30
+
+MapCode 16
+  abiebals 30
+  betupapy 20
+  picemari 20
+  pinubank 170
+  poputrem 40
+
+MapCode 17
+  abiebals 40
+  betupapy 30
+  picemari 30
+  pinubank 200
+  poputrem 40
+
+MapCode 18
+  abiebals 50
+  betupapy 30
+  picemari 40
+  pinubank 200
+  poputrem 50
+
+MapCode 19
+  abiebals 60
+  betupapy 40
+  piceglau 10
+  picemari 40
+  pinubank 200
+  poputrem 60
+
+MapCode 20
+  abiebals 60
+  betupapy 40
+  piceglau 10
+  picemari 40
+  pinubank 200
+  poputrem 60
+
+MapCode 21
+  abiebals 60
+  betupapy 40
+  piceglau 10
+  picemari 50
+  pinubank 200
+  poputrem 70
+
+MapCode 22
+  abiebals 90
+  betupapy 50
+  piceglau 10
+  picemari 60
+  pinubank 200
+  poputrem 90
+
+MapCode 23
+  pinubank 10
+
+MapCode 24
+  pinubank 30
+
+MapCode 25
+  pinubank 40
+
+MapCode 26
+  pinubank 50
+
+MapCode 27
+  pinubank 60
+
+MapCode 28
+  pinubank 70
+
+MapCode 29
+  pinubank 80
+
+MapCode 30
+  pinubank 90
+
+MapCode 31
+  pinubank 100
+
+MapCode 32
+  betupapy 10
+  picemari 10
+  pinubank 120
+
+MapCode 33
+  betupapy 10
+  picemari 10
+  pinubank 130
+
+MapCode 34
+  betupapy 10
+  picemari 10
+  pinubank 140
+
+MapCode 35
+  betupapy 10
+  picemari 10
+  pinubank 150
+
+MapCode 36
+  betupapy 10
+  picemari 10
+  pinubank 170
+
+MapCode 37
+  betupapy 10
+  picemari 10
+  pinubank 200
+
+MapCode 38
+  betupapy 20
+  picemari 20
+  pinubank 200
+  pinuresi 10
+  poputrem 10
+
+MapCode 39
+  betupapy 30
+  picemari 30
+  pinubank 200
+  pinuresi 10
+  pinustro 10
+  poputrem 10
+
+MapCode 40
+  pinuresi 10
+
+MapCode 41
+  pinuresi 30
+
+MapCode 42
+  pinuresi 40
+
+MapCode 43
+  pinuresi 50
+
+MapCode 44
+  pinuresi 60
+
+MapCode 45
+  pinuresi 70
+
+MapCode 46
+  pinuresi 80
+
+MapCode 47
+  pinuresi 90
+
+MapCode 48
+  pinuresi 100
+
+MapCode 49
+  pinuresi 120
+
+MapCode 50
+  pinuresi 130
+
+MapCode 51
+  pinuresi 140
+
+MapCode 52
+  pinuresi 150
+
+MapCode 53
+  pinuresi 170
+
+MapCode 54
+  pinuresi 200
+
+MapCode 55
+  pinuresi 240
+
+MapCode 56
+  pinuresi 270
+
+MapCode 57
+  pinuresi 280
+
+MapCode 58
+  pinuresi 300
+
+MapCode 59
+  pinuresi 300
+
+MapCode 60
+  pinuresi 10
+  pinustro 10
+
+MapCode 61
+  pinuresi 30
+  pinustro 30
+
+MapCode 62
+  pinuresi 40
+  pinustro 40
+
+MapCode 63
+  betupapy 10
+  pinuresi 50
+  pinustro 50
+
+MapCode 64
+  betupapy 10
+  pinuresi 60
+  pinustro 60
+
+MapCode 65
+  betupapy 10
+  pinuresi 70
+  pinustro 70
+
+MapCode 66
+  betupapy 10
+  pinubank 10
+  pinuresi 80
+  pinustro 80
+
+MapCode 67
+  betupapy 20
+  pinubank 10
+  pinuresi 90
+  pinustro 90
+
+MapCode 68
+  betupapy 20
+  pinubank 10
+  pinuresi 100
+  pinustro 100
+
+MapCode 69
+  betupapy 20
+  pinubank 10
+  pinuresi 120
+  pinustro 120
+
+MapCode 70
+  betupapy 30
+  pinubank 10
+  pinuresi 130
+  pinustro 130
+
+MapCode 71
+  picemari 10
+
+MapCode 72
+  picemari 30
+  pinubank 20
+
+MapCode 73
+  picemari 40
+  pinubank 30
+
+MapCode 74
+  picemari 50
+  pinubank 40
+
+MapCode 75
+  picemari 60
+  pinubank 50
+
+MapCode 76
+  picemari 70
+  pinubank 60
+
+MapCode 77
+  picemari 80
+  pinubank 70
+
+MapCode 78
+  picemari 90
+  pinubank 70
+
+MapCode 79
+  abiebals 10
+  picemari 100
+  pinubank 80
+
+MapCode 80
+  abiebals 10
+  betupapy 10
+  picemari 120
+  pinubank 100
+
+MapCode 81
+  abiebals 10
+  betupapy 10
+  picemari 130
+  pinubank 110
+
+MapCode 82
+  abiebals 10
+  betupapy 10
+  picemari 140
+  pinubank 120
+
+MapCode 83
+  abiebals 10
+  betupapy 10
+  picemari 150
+  pinubank 130
+
+MapCode 84
+  abiebals 10
+  betupapy 10
+  picemari 170
+  pinubank 140
+  poputrem 10
+
+MapCode 85
+  abiebals 20
+  betupapy 10
+  picemari 200
+  pinubank 170
+  poputrem 10
+
+MapCode 86
+  abiebals 20
+  betupapy 20
+  picemari 200
+  poputrem 10
+
+MapCode 87
+  abiebals 20
+  betupapy 20
+  picemari 200
+  poputrem 10
+
+MapCode 88
+  abiebals 20
+  betupapy 20
+  picemari 200
+  poputrem 10
+
+MapCode 89
+  abiebals 30
+  betupapy 20
+  picemari 200
+  poputrem 10
+
+MapCode 90
+  abiebals 30
+  betupapy 30
+  picemari 200
+  poputrem 20
+
+MapCode 91
+  abiebals 10
+  betupapy 10
+
+MapCode 92
+  abiebals 20
+  betupapy 20
+
+MapCode 93
+  abiebals 30
+  betupapy 30
+
+MapCode 94
+  abiebals 40
+  betupapy 40
+  poputrem 10
+  thujocci 10
+
+MapCode 95
+  abiebals 50
+  betupapy 60
+  poputrem 10
+  thujocci 10
+
+MapCode 96
+  abiebals 60
+  betupapy 70
+  picemari 10
+  poputrem 10
+  thujocci 10
+
+MapCode 97
+  abiebals 70
+  betupapy 80
+  picemari 10
+  poputrem 20
+  thujocci 10
+
+MapCode 98
+  abiebals 80
+  betupapy 90
+  picemari 10
+  poputrem 20
+  thujocci 20
+
+MapCode 99
+  abiebals 90
+  betupapy 110
+  picemari 10
+  poputrem 20
+  thujocci 20
+
+MapCode 100
+  abiebals 100
+  betupapy 120
+  picemari 10
+  poputrem 20
+  thujocci 20
+
+MapCode 101
+  abiebals 120
+  betupapy 140
+  piceglau 10
+  picemari 20
+  poputrem 30
+  thujocci 30
+
+MapCode 102
+  abiebals 130
+  betupapy 160
+  piceglau 10
+  picemari 20
+  poputrem 30
+  thujocci 30
+
+MapCode 103
+  abiebals 140
+  betupapy 170
+  piceglau 10
+  picemari 20
+  poputrem 40
+  thujocci 30
+
+MapCode 104
+  abiebals 150
+  betupapy 180
+  piceglau 10
+  picemari 20
+  poputrem 40
+  thujocci 40
+
+MapCode 105
+  abiebals 150
+  betupapy 210
+  piceglau 10
+  picemari 30
+  poputrem 50
+  thujocci 40
+
+MapCode 106
+  abiebals 150
+  piceglau 10
+  picemari 30
+  poputrem 50
+  thujocci 50
+
+MapCode 107
+  abiebals 150
+  piceglau 20
+  picemari 40
+  poputrem 70
+  thujocci 60
+
+MapCode 108
+  abiebals 150
+  piceglau 20
+  picemari 50
+  poputrem 80
+  thujocci 70
+
+MapCode 109
+  abiebals 150
+  piceglau 20
+  picemari 50
+  poputrem 80
+  thujocci 70
+
+MapCode 110
+  abiebals 150
+  piceglau 20
+  picemari 50
+  poputrem 80
+  thujocci 80
+
+MapCode 111
+  abiebals 150
+  piceglau 30
+  picemari 70
+  poputrem 110
+  thujocci 100
+
+MapCode 112
+  thujocci 10
+
+MapCode 113
+  abiebals 10
+  betupapy 10
+  thujocci 30
+
+MapCode 114
+  abiebals 10
+  betupapy 20
+  thujocci 40
+
+MapCode 115
+  abiebals 10
+  betupapy 30
+  thujocci 50
+
+MapCode 116
+  abiebals 20
+  betupapy 30
+  poputrem 10
+  thujocci 60
+
+MapCode 117
+  abiebals 20
+  betupapy 40
+  poputrem 10
+  thujocci 70
+
+MapCode 118
+  abiebals 20
+  betupapy 40
+  poputrem 10
+  thujocci 80
+
+MapCode 119
+  abiebals 30
+  betupapy 50
+  poputrem 10
+  thujocci 90
+
+MapCode 120
+  abiebals 30
+  betupapy 60
+  piceglau 10
+  poputrem 10
+  thujocci 100
+
+MapCode 121
+  abiebals 40
+  betupapy 70
+  piceglau 10
+  poputrem 20
+  thujocci 120
+
+MapCode 122
+  abiebals 40
+  betupapy 70
+  piceglau 10
+  poputrem 20
+  thujocci 130
+
+MapCode 123
+  abiebals 40
+  betupapy 80
+  piceglau 10
+  poputrem 20
+  thujocci 140
+
+MapCode 124
+  abiebals 50
+  betupapy 90
+  piceglau 10
+  poputrem 20
+  thujocci 150
+
+MapCode 125
+  abiebals 50
+  betupapy 100
+  piceglau 10
+  poputrem 20
+  thujocci 170
+
+MapCode 126
+  abiebals 60
+  betupapy 120
+  piceglau 20
+  pinustro 10
+  poputrem 30
+  thujocci 200
+
+MapCode 127
+  abiebals 80
+  betupapy 140
+  piceglau 20
+  pinustro 10
+  poputrem 40
+  thujocci 240
+
+MapCode 128
+  abiebals 90
+  betupapy 160
+  piceglau 20
+  pinustro 10
+  poputrem 40
+  thujocci 270
+
+MapCode 129
+  picemari 10
+
+MapCode 130
+  picemari 30
+
+MapCode 131
+  picemari 40
+
+MapCode 132
+  picemari 50
+
+MapCode 133
+  picemari 60
+
+MapCode 134
+  picemari 70
+
+MapCode 135
+  picemari 80
+
+MapCode 136
+  picemari 90
+
+MapCode 137
+  picemari 100
+
+MapCode 138
+  picemari 110
+
+MapCode 139
+  picemari 120
+
+MapCode 140
+  picemari 130
+
+MapCode 141
+  picemari 140
+
+MapCode 142
+  picemari 150
+
+MapCode 143
+  picemari 170
+
+MapCode 144
+  picemari 200
+
+MapCode 145
+  picemari 200
+
+MapCode 146
+  picemari 200
+
+MapCode 147
+  picemari 200
+
+MapCode 148
+  pinubank 10
+
+MapCode 149
+  poputrem 10
+
+MapCode 150
+  betupapy 10
+  poputrem 20
+
+MapCode 151
+  betupapy 10
+  poputrem 30
+
+MapCode 152
+  betupapy 20
+  poputrem 40
+
+MapCode 153
+  betupapy 20
+  poputrem 50
+
+MapCode 154
+  betupapy 30
+  poputrem 60
+
+MapCode 155
+  betupapy 30
+  poputrem 70
+
+MapCode 156
+  betupapy 40
+  poputrem 80
+
+MapCode 157
+  betupapy 50
+  poputrem 90
+
+MapCode 158
+  betupapy 50
+  poputrem 100
+
+MapCode 159
+  betupapy 60
+  poputrem 120
+
+MapCode 160
+  betupapy 70
+  poputrem 130
+
+MapCode 161
+  betupapy 70
+  poputrem 140
+
+MapCode 162
+  betupapy 90
+  poputrem 160
+
+MapCode 163
+  betupapy 110
+  poputrem 160
+
+MapCode 164
+  poputrem 10
+
+MapCode 165
+  betupapy 10
+  poputrem 20
+
+MapCode 166
+  betupapy 10
+  poputrem 30
+
+MapCode 167
+  betupapy 20
+  poputrem 40
+
+MapCode 168
+  betupapy 20
+  poputrem 50
+
+MapCode 169
+  abiebals 10
+  betupapy 30
+  poputrem 60
+
+MapCode 170
+  abiebals 10
+  betupapy 30
+  poputrem 70
+
+MapCode 171
+  abiebals 10
+  betupapy 40
+  poputrem 80
+
+MapCode 172
+  abiebals 10
+  betupapy 50
+  poputrem 90
+
+MapCode 173
+  abiebals 10
+  betupapy 50
+  poputrem 100
+
+MapCode 174
+  abiebals 20
+  betupapy 60
+  poputrem 110
+
+MapCode 175
+  abiebals 20
+  betupapy 60
+  pinubank 10
+  poputrem 120
+
+MapCode 176
+  abiebals 20
+  betupapy 70
+  pinubank 10
+  poputrem 130
+
+MapCode 177
+  abiebals 20
+  betupapy 70
+  piceglau 10
+  pinubank 10
+  poputrem 140
+
+MapCode 178
+  abiebals 20
+  betupapy 80
+  piceglau 10
+  pinubank 10
+  pinustro 10
+  poputrem 150
+
+MapCode 179
+  abiebals 30
+  betupapy 90
+  piceglau 10
+  picemari 10
+  pinubank 10
+  pinustro 10
+  poputrem 160
+
+MapCode 180
+  abiebals 30
+  betupapy 110
+  piceglau 10
+  picemari 10
+  pinubank 10
+  pinustro 10
+  poputrem 160
+
+MapCode 181
+  abiebals 40
+  betupapy 130
+  piceglau 10
+  picemari 10
+  pinubank 20
+  pinustro 10
+  poputrem 160
+
+MapCode 182
+  abiebals 50
+  betupapy 150
+  piceglau 20
+  picemari 10
+  pinubank 20
+  pinustro 10
+  poputrem 160
+
+MapCode 183
+  abiebals 50
+  betupapy 150
+  piceglau 20
+  picemari 10
+  pinubank 20
+  pinustro 10
+  poputrem 160
+
+MapCode 184
+  abiebals 50
+  betupapy 160
+  piceglau 20
+  picemari 10
+  pinubank 20
+  pinustro 20
+  poputrem 160
+
+MapCode 185
+  abiebals 70
+  betupapy 210
+  piceglau 20
+  picemari 20
+  pinubank 30
+  pinustro 20
+  poputrem 160
+
+MapCode 186
+  poputrem 10
+
+MapCode 187
+  betupapy 20
+  poputrem 30
+
+MapCode 188
+  acerrubr 10
+  betupapy 30
+  poputrem 50
+
+MapCode 189
+  abiebals 10
+  acerrubr 10
+  betupapy 60
+  pinustro 10
+  poputrem 80
+
+MapCode 190
+  abiebals 20
+  acerrubr 20
+  betupapy 90
+  picemari 10
+  pinustro 10
+  poputrem 120
+
+MapCode 191
+  acerrubr 10
+
+MapCode 192
+  acerrubr 20
+
+MapCode 193
+  acerrubr 30
+
+MapCode 194
+  acerrubr 120
+
+MapCode 195
+
+MapCode 196
+
+>>--------------------------------------------------------------------
+
+>> These map codes were added because they are used in the site class
+>> map "..\Landis-3.7\SppMap.gis" for active sites
+
+MapCode 197
+
+MapCode 198
+
+MapCode 199
+
+MapCode 200
+
+MapCode 201
+
+MapCode 202
+
+MapCode 203
+
+MapCode 204
+
+MapCode 205

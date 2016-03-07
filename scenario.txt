@@ -1,0 +1,35 @@
+LandisData  Scenario
+
+Duration  300
+
+Species   species.txt
+
+Ecoregions      ecoregions.txt
+EcoregionsMap   LandTypes.gis
+
+CellLength  28.5 << 1 ha
+
+
+>> Succession 
+>> Extension               Initialization File
+>> -------                  -------------------
+   "Age-only Succession"    succession.txt
+
+>> Disturbance 
+>> Extensions               Initialization File
+>> -------                  -------------------
+
+   "Base Wind"		    wind.txt
+   "Base Fire"		    fire.txt
+
+>> Optional (default = no):
+DisturbancesRandomOrder yes
+
+>> Output 
+>> Extensions               Initialization File
+>> -------                  -------------------
+
+   "Output Max Species Age"        max-spp-age.output.txt
+
+>> Optional (if omitted, seed is randomly generated)
+RandomNumberSeed  4,357

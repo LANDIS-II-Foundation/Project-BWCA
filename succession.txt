@@ -1,0 +1,30 @@
+LandisData   "Age-only Succession"
+
+
+Timestep  10
+
+SeedingAlgorithm  WardSeedDispersal
+
+InitialCommunities      init-communities.txt
+InitialCommunitiesMap   SppMap.gis
+
+
+EstablishProbabilities
+
+>> Species    Ecoregions
+>> --------   -------------------
+              type4  type5  type6
+
+   abiebals   0.32   0.5    0    
+   acerrubr   0.06   0.18   0    
+   acersacc   0.16   0.3    0    
+   betupapy   0.94   1      0    
+   fraxamer   0.02   0      0    
+   piceglau   0.98   1      0    
+   picemari   0.1    0.12   1    
+   pinubank   1      1      0    
+   pinuresi   0.76   0.76   0    
+   pinustro   0.48   0.62   0    
+   popubals   0.98   0.98   0    
+   poputrem   0.96   1      0    
+   thujocci   0.66   0.82   0    

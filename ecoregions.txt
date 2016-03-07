@@ -1,0 +1,13 @@
+LandisData  Ecoregions
+
+
+>>         Map
+>> Active  Code  Name       Description
+>> ------  ----  ---------  -----------
+       -     0   empty      empty
+       -     1   water      water
+       -     2   lowland    lowland
+       -     3   nonforest  nonforest
+      yes    4   type4      type4
+      yes    5   type5      type5
+      yes    6   type6      type6

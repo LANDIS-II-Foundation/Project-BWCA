@@ -1,0 +1,5 @@
+rem Run the BWCA example
+
+call landis-ii scenario.txt
+
+pause

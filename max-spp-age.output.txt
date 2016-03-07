@@ -1,0 +1,12 @@
+LandisData  "Output Max Species Age"
+
+
+Timestep   50
+
+MapNames   output/{species}-{timestep}.gis
+
+Species    pinubank
+           pinuresi
+           pinustro
+           poputrem
+           piceglau

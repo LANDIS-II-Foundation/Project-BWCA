@@ -1,0 +1,48 @@
+>> Example of a good input file for Wind plug-in
+
+LandisData  "Base Fire"
+
+Timestep  10
+
+>> Fire 	Map    	Event Size  (ha)    Ignition   Fire Spread
+>> Region	Code	Max   Mean    Min   Prob.      Age
+>> ---------   ----   	----   ----   --------   --------
+    type4      4	22000   4380    200  0.0000001  100
+    type5      5	22000   4380    200  0.0000001  100
+    type6      6	22000   4380    200  0.0000001  100
+
+InitialFireRegionsMap	landtypes.gis
+
+
+FuelCurveTable
+
+>>             Severities (in increasing order)
+>> Ecoregion   S1   S2   S3   S4   S5
+>> ------------------------------------
+   type4       20   30   40   50   80 
+   type5       20   30   40   50   80 
+   type6       20   30   40   50   80 
+
+WindCurveTable
+
+>>             Severities (in decreasing order)
+>> Ecoregion   S5   S4   S3   S2   S1
+>> ------------------------------------
+   type4       3    5    10   15   -1
+   type5       3    5    10   15   -1
+>> type6 excluded:  wetter areas.
+
+
+FireDamageTable
+
+>>Cohort Age       FireSeverity - 
+>>% of longevity   FireTolerance
+>>--------------   --------------
+  20%              -2
+  50%              -1
+  85%               0
+  100%              1
+
+MapNames  fire/severity-{timestep}.gis
+LogFile   fire/log.csv
+SummaryLogFile fire/summary-log.csv

@@ -1,0 +1,27 @@
+>> Example of a good input file for Wind plug-in
+
+LandisData  "Base Wind"
+
+Timestep  10
+
+>>             Event Size (ha)      Rotation
+>> Ecoregion    Max   Mean    Min   Period
+>> ---------   ----   ----   ----   --------
+    type4       5000    93     1     500
+    type5       5000    93     1     500
+    type6       5000    93     1     500
+
+
+WindSeverities
+
+ >>            Cohort Age       Mortality
+ >> Severity   % of longevity   Probability
+ >> --------   --------------   -----------
+       5          0% to  20%       0.05
+       4         20% to  50%       0.1
+       3         50% to  70%       0.5
+       2         70% to  85%       0.85
+       1         85% to 100%       0.95
+
+MapNames  wind/severity-{timestep}.gis
+LogFile   wind/log.csv
